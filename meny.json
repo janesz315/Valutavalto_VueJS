@@ -1,0 +1,48 @@
+[
+    {
+      "name": "USA Dollár",
+      "symbol": "$",
+      "label": "USD"
+    },
+    {
+      "name": "Magyar Forint",
+      "symbol": "Ft",
+      "label": "HUF"
+    },
+    {
+      "name": "Euró",
+      "symbol": "€",
+      "label": "EUR"
+    },
+    {
+      "name": "Won",
+      "symbol": "₩",
+      "label": "KRW"
+    },
+    {
+      "name": "Yen",
+      "symbol": "¥",
+      "label": "JPY"
+    },
+    {
+      "name": "Cseh korona",
+      "symbol": "Kč",
+      "label": "CZK"
+    },
+    {
+      "name": "Lei",
+      "symbol": "lei",
+      "label": "RON"
+    },
+    {
+      "name": "Zloty",
+      "symbol": "zł",
+      "label": "PLN"
+    },
+    {
+      "name": "Kanadai dollár",
+      "symbol": "$",
+      "label": "CAD"
+    }
+    
+  ]
